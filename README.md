@@ -53,8 +53,11 @@ Sine Value: -0.13235175009777303
 Task2.py
 
 📂 Repository Structure
+
 ├── Task1.py
+
 ├── Task2.py
+
 └── README.md
 
 🚀 How to Run the Programs
@@ -67,5 +70,6 @@ git clone <your-repository-link>
 python Task1.py
 
 3. Run Task 2
+
 
 python Task2.py
